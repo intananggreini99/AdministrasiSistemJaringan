@@ -9,4 +9,5 @@ Disini saya membuat file TXT dalam rangka praktikum git actions yakni teknis dar
 Sesungguhnya bersama kesulitan ada kemudahan” 
 (QS. Al-Insyirah: 5-6).
 
-COBA COBA GIT PULL
+NYOBA GIT FETCH NIEH KIRA_KIRA BISA GA YA
+BISMILLAH AJA DULU
